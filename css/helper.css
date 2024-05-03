@@ -1,0 +1,27 @@
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+.flex {
+    display: flex;
+}
+ 
+.j-content {
+    justify-content: center;
+}
+
+.j-between {
+    justify-content: space-between;
+}
+.bg-btn {
+    background: var(--colorbutton);
+}
+.cl-btn {
+  color:  rgba(9, 180, 81, 1);
+     
+}
